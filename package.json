@@ -27,5 +27,9 @@
     "eslint-config-next": "13.4.19",
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/rod773/ethan-portfolio.git",
+  "author": "rod773 <104315743+rod773@users.noreply.github.com>",
+  "license": "MIT"
 }
